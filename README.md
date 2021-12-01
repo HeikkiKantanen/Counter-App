@@ -5,4 +5,4 @@
 ### Application screenshot:
 
 
-![Screenshot of the app](Screenshot_Counte_App.png)
+![Screenshot of the app](Screenshot_Counter_App.png)
