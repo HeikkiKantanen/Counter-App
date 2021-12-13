@@ -32,6 +32,7 @@ class Main extends Component {
     };
 
     removeFive = () => {
+        if (this.state.counter > 4) 
         this.setState ({
             counter: this.state.counter -5
         });
