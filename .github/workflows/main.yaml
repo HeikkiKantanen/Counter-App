@@ -12,8 +12,5 @@ jobs:
       - name: Run a one-line script
         run: echo "Hello World!"
 
-      - name: Simulate an error
-        run: echo "About to fail" ; exit 1
-
       - name: Another greeting
         run: echo "Hello again World!"
